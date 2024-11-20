@@ -37,17 +37,25 @@ A user-friendly design ensures a seamless booking experience by providing intuit
 
 ### Colors
 **Primary color** - #34967C
+
 **Secondary color 1** - #161117
+
 **Secondary color 2** - #FFA800
+
 **Background linear gradient colors** - #E6E6E6 (stops - 0%) #EDEDED (stops - 100%)
+
 **Greys** - #616161 #BEBEBE #5F5F5F #8C8C8C #F9F9F9
+
 **Footer text color** - #CACACA 
+
 **Footer Link color** - #34967C
 
 ### Typography
 
 **Font family** - Quicksand
+
 **Font weight** - Medium, SemiBold
+
 **Font size** - 13 - 25 pts
 
 ### Importance of Identifying Design Properties in a Mockup
