@@ -144,3 +144,26 @@ Foster a collaborative and productive team environment.
 Coach the team on Agile principles and practices.
 Ensure continuous improvement within the team.
 
+## UI Component Patterns
+
+### Ad bar
+This will be a green bar at the top with an ad for more information.
+
+### Navbar
+This component will contain the page's basic navigation. It will have a search bar, check in, check out and people, a location tab and sign in and sign out buttons. It will also have the logo.
+
+### Options bar
+This will show all the different accomodation options as icons. To make it easier for the user to select the kind of accomodation they need. 
+
+### Hero section
+
+### Filter section
+
+### Listings section
+This will show random listings based on the user's past searches and also top picks. 
+
+### Footer section
+This will display the footer section with relevant information and links.
+
+
+
