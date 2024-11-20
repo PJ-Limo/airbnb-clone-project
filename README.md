@@ -32,3 +32,25 @@ We will be building the following pages;
 ### Importance of a User-Friendly Design in a Booking System
 
 A user-friendly design ensures a seamless booking experience by providing intuitive navigation, responsive layouts, and clear feedback. It enhances user satisfaction, boosts conversion rates, reduces errors, and encourages repeat usage. Features like accessibility compliance and secure payment systems make the platform reliable and inclusive, fostering trust and loyalty among users.
+
+## Assets and design kit used
+
+### Colors
+#### Primary color - #34967C
+#### Secondary color 1 - #161117
+#### Secondary color 2 - #FFA800
+#### Background linear gradient colors - #E6E6E6 (stops - 0%) #EDEDED (stops - 100%)
+#### Greys - #616161 #BEBEBE #5F5F5F #8C8C8C #F9F9F9
+#### Footer text color - #CACACA 
+#### Footer Link color - #34967C
+
+### Typography
+
+#### Font family - Quicksand
+#### Font weight - Medium, SemiBold
+#### Font size - 13 - 25 pts
+
+### Importance of Identifying Design Properties in a Mockup
+
+Identifying design properties in a mockup ensures consistency and clarity during development. It helps define key elements like layout, typography, color schemes, and spacing, enabling developers to translate the design accurately into code. This process improves collaboration between designers and developers, reduces misunderstandings, and ensures the final product matches the original vision. Documenting these properties also streamlines updates and maintains a cohesive user experience.
+
