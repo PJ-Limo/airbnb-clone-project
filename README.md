@@ -156,10 +156,12 @@ This component will contain the page's basic navigation. It will have a search b
 This will show all the different accomodation options as icons. To make it easier for the user to select the kind of accomodation they need. 
 
 ### Hero section
+This section is the website's primary focus area, designed to capture attention with a prominent headline, supporting text, and a call-to-action, effectively conveying the core message.
 
 ### Filter section
+This section will enable the user to filter their search results to make it easier to find what they are looking for.
 
-### Listings section
+### Property cards (listings) section
 This will show random listings based on the user's past searches and also top picks. 
 
 ### Footer section
